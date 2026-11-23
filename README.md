@@ -23,7 +23,7 @@
 I'm a **Full Stack & AI Engineer** from Karachi with **2.75+ years of experience** across VC-funded US startups and the service industry. I build scalable, secure **web and mobile apps**, and more and more of my work is **AI**: voice agents, RAG systems, and automation that businesses actually use.
 
 - 🚀 **Founding Engineer** at [Cygnuz AI](https://www.cygnuzai.com), building AI agents, **24/7 AI call agents**, chatbots and workflow automation
-- 📱 **Full Stack Developer** for a Miami-based ride-hailing platform. I led its **Flutter → React Native** migration, rebuilding it from 0 to 1
+- 📱 **Full Stack Developer** at **eRideUp**, a ride-hailing app in Miami. I led its **Flutter → React Native** migration, rebuilding it from 0 to 1
 - 🎙️ Shipped **Voios**, an AI calling agent for a US client (Next.js, FastAPI, Vapi, Twilio, AWS EC2)
 - 🤝 Worked with teams across **the USA, Russia and India**, including a product manager at **Amazon**
 - 🎓 BS Computer Science at **KSBL**, expected 2027
@@ -98,8 +98,8 @@ I'm a **Full Stack & AI Engineer** from Karachi with **2.75+ years of experience
 | Role | Organization | Period | Highlights |
 |---|---|---|---|
 | **Founding Engineer** | [Cygnuz AI](https://www.cygnuzai.com) | Present | Building AI agents, **24/7 AI call agents**, chatbots and workflow automation for businesses |
-| **Full Stack Developer** | Mobility Platform (Ride Hailing), Miami, USA | Apr 2026 – Present | Led the **Flutter → React Native** migration and rebuilt the architecture from 0 to 1; apps serve **1,000+ active users** at **99%+ stability**; App Store & Play Store releases with zero critical rollbacks |
-| **Full Stack Developer (Contract)** | PetWealth, Florida, USA | Jan – Apr 2026 | Worked across **6+ repos** (web, admin, e-commerce, B2B & logistics dashboards); Stripe, SendGrid and HubSpot integrations; real-time tracking with Agora.io; made PostgreSQL queries **up to 40% faster** |
+| **Full Stack Developer** | eRideUp (Ride Hailing), Miami, USA | Apr 2026 – Present | Led the **Flutter → React Native** migration and rebuilt the architecture from 0 to 1; apps serve **1,000+ active users** at **99%+ stability**; App Store & Play Store releases with zero critical rollbacks |
+| **Full Stack Developer (Contract)** | PetWealth (VC-backed startup), Florida, USA | Jan – Apr 2026 | Worked across **6+ repos** (web, admin, e-commerce, B2B & logistics dashboards); Stripe, SendGrid and HubSpot integrations; real-time tracking with Agora.io; made PostgreSQL queries **up to 40% faster** |
 | **Software Developer** | Matz Solutions Pvt. Ltd. | Apr 2024 – Present | Led **Sindh government** platforms, including a scholarship platform serving **1,000+ schools**; owned the ICCD Freelance Platform; real-time features with Socket.IO; AWS S3 + CloudFront |
 | **HP Tech Ventures Extern** | HP Inc. | Aug – Sep 2024 | Analyzed **50+ startups** for HP Tech Ventures' investment thesis; wrote deal flow reports and market analysis |
 | **Front End Developer Intern** | Matz Solutions Pvt. Ltd. | Sep 2023 – Apr 2024 | Responsive React.js UI components for production client apps |
@@ -122,28 +122,28 @@ AI voice agent for a **Miami-based client** that handles inbound customer care c
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Ride-Hailing App (Miami, USA)
-Production mobile app migrated from **Flutter to React Native**, connected to Python backend APIs with real-time data sync, and tuned for the US and Indian markets.
+### 🚙 eRideUp · Ride-Hailing & Roadside Assistance (Miami, USA)
+I led the app's migration from **Flutter to React Native** and rebuilt the architecture from 0 to 1. I built the core screens, the payment WebView flow and the notification architecture, and connected it to Python backend APIs with real-time data sync. It serves **1,000+ active users** in the US and India and is live on the **App Store and Play Store**.
 
-`React Native` `Python APIs` `Real-time` `App Store` `Play Store`
+`React Native` `Python APIs` `Real-time` `Payments` `App Store` `Play Store`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏭 eHive · Asset Inventory Management
-Built for **Engro Fertilizers (Engro Group)** to manage **900+ IT assets**, with real-time tracking, role-based access, audit trails and automated reporting. It replaced their manual Excel workflow and runs on Engro's own servers.
+### 🐾 PetWealth · VC-Backed Startup (Florida, USA)
+Full-stack work across the web app, admin portal, e-commerce store, B2B and logistics dashboards and an **Expo** mobile app, with Stripe payments and automated SendGrid/HubSpot emails.
 
-`React` `Node.js` `RBAC` `Reporting`
+`React` `React Native` `Node.js` `PostgreSQL` `Stripe`
 
 </td>
 <td width="50%" valign="top">
 
-### 🚙 eRideUp · Ride-Hailing & Roadside Assistance
-React Native app for the US market. I built the core screens, the payment WebView flow and the notification architecture. It is live on the **App Store and Play Store**.
+### 🏭 eHive · Asset Inventory Management
+Built for **Engro Fertilizers (Engro Group)** to manage **900+ IT assets**, with real-time tracking, role-based access, audit trails and automated reporting. It replaced their manual Excel workflow and runs on Engro's own servers.
 
-`React Native` `Payments` `Push Notifications`
+`React` `Node.js` `RBAC` `Reporting`
 
 </td>
 </tr>
@@ -158,22 +158,14 @@ Scholarship platform serving **1,000+ schools** and thousands of students across
 </td>
 <td width="50%" valign="top">
 
-### 🐾 PetWealth Platform
-Full-stack work across the web app, admin portal, e-commerce store, B2B and logistics dashboards and an **Expo** mobile app, with Stripe payments and automated SendGrid/HubSpot emails.
-
-`React` `React Native` `Node.js` `PostgreSQL` `Stripe`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 📈 MintsyPlus · Blockchain Analytics
 Platform for discovering and tracking newly launched tokens. I improved frontend performance and integrated smart contracts for on-chain features.
 
 `React` `Web3` `Smart Contracts`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎨 Infinitly Digital (Canada)
@@ -182,6 +174,7 @@ Agency portfolio built with **Next.js 14, Three.js and GSAP**, with content mana
 `Next.js` `Three.js` `GSAP` `Sanity`
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
