@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a10,50:3a0d2a,100:ff2e7a&height=200&section=header&text=Syed%20Mohiuddin%20Hussain&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Generative%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header banner"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=FF2E7A&center=true&vCenter=true&width=660&lines=Founding+Engineer+%40+Cygnuz+AI+%F0%9F%A4%96;Building+AI+voice+agents+%26+RAG+apps;React+%E2%80%A2+React+Native+%E2%80%A2+Node.js+%E2%80%A2+Python;Shipping+web+%26+mobile+products+end-to-end+%F0%9F%9A%80" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=FF2E7A&center=true&vCenter=true&width=660&lines=Founding+Engineer+%40+Cygnuz+AI+%F0%9F%A4%96;Aspiring+Forward+Deployed+Engineer+%F0%9F%8E%AF;Agentic+AI+with+LangGraph+%2B+Qdrant;Building+AI+voice+agents+%26+RAG+apps;React+%E2%80%A2+React+Native+%E2%80%A2+Node.js+%E2%80%A2+Python;Shipping+web+%26+mobile+products+end-to-end+%F0%9F%9A%80" alt="Typing SVG"/></a>
 
 <p>
   <a href="https://www.linkedin.com/in/syed-mohiuddin-hussain/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -20,12 +20,15 @@
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smohiuddinh&layout=compact&hide_border=true&bg_color=00000000&title_color=FF2E7A&text_color=8b949e&langs_count=6" alt="Top languages"/>
 
-I'm a **Full Stack & AI Engineer** from Karachi with **2.75+ years of experience** across VC-funded US startups and the service industry. I build scalable, secure **web and mobile apps**, and more and more of my work is **AI**: voice agents, RAG systems, and automation that businesses actually use.
+I'm a **Full Stack & AI Engineer** from Karachi with **2.75+ years of experience** across VC-funded US startups and the service industry. I build scalable, secure **web and mobile apps**, and more and more of my work is **AI**: voice agents, agentic workflows with **LangGraph**, RAG systems on **vector databases** like Qdrant, and automation that businesses actually use.
+
+Where I'm heading: **Forward Deployed Engineering**. I like sitting close to the customer, understanding their real problem, and shipping AI systems into their production environment end to end.
 
 - 🚀 **Founding Engineer** at [Cygnuz AI](https://www.cygnuzai.com), building AI agents, **24/7 AI call agents**, chatbots and workflow automation
 - 📱 **Full Stack Developer** at **eRideUp**, a ride-hailing app in Miami. I led its **Flutter → React Native** migration, rebuilding it from 0 to 1
 - 🎙️ Shipped **Voios**, an AI calling agent for a US client (Next.js, FastAPI, Vapi, Twilio, AWS EC2)
 - 🤝 Worked with teams across **the USA, Russia and India**, including a product manager at **Amazon**
+- 🎯 Working toward a **Forward Deployed Engineer** role: AI + full stack + working directly with customers
 - 🎓 BS Computer Science at **KSBL**, expected 2027
 - 📫 Reach me at **smohiuddinh@gmail.com**
 
@@ -61,6 +64,10 @@ I'm a **Full Stack & AI Engineer** from Karachi with **2.75+ years of experience
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi-Voice%20AI-5B5BD6?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -79,11 +86,12 @@ I'm a **Full Stack & AI Engineer** from Karachi with **2.75+ years of experience
 | Area | Skills |
 |---|---|
 | **Languages** | JavaScript (ES6+) · TypeScript · Python · SQL |
-| **AI & LLMs** | AI Voice Agents (Vapi, Twilio) · RAG · Embeddings · Vector Search (FAISS) · LLM APIs (Groq) · Hugging Face Transformers · Chatbots · Workflow Automation |
+| **AI & LLMs** | AI Voice Agents (Vapi, Twilio) · Agentic AI (LangGraph, LangChain) · Multi-step Agent Workflows · Tool Calling · RAG · Embeddings · Semantic Search · LLM APIs (Groq) · Hugging Face Transformers · Chatbots · Workflow Automation |
 | **Machine Learning** | Regression · Scikit-learn · PyTorch · NLP |
 | **Frontend** | React.js · Next.js · Redux Toolkit · React Query · Tailwind CSS · Three.js · GSAP · Framer Motion · Konva.js |
 | **Mobile** | React Native · Expo · App Store & Play Store releases |
 | **Backend** | Node.js · Express.js · FastAPI · REST APIs · Microservices · Socket.IO · JWT Auth |
+| **Vector Databases** | Qdrant · pgvector · FAISS |
 | **Databases** | PostgreSQL · MySQL · MongoDB · Supabase · Firebase |
 | **Cloud & DevOps** | AWS (EC2, S3, CloudFront) · Vercel · CI/CD |
 | **Integrations** | Stripe · SendGrid · HubSpot · Agora.io · Sanity CMS · Twilio |
@@ -292,7 +300,8 @@ A Levels, Whales College, Karachi (2023) · O Levels, The City School, Karachi (
 <td valign="top" width="50%">
 
 **🧠 Interested in**
-- AI Agents & Voice AI
+- **Forward Deployed Engineering**
+- Agentic AI (LangGraph) & Voice AI
 - Generative AI & LLM Applications
 - Full Stack & Mobile Product Engineering
 - Real-time Systems
@@ -303,8 +312,8 @@ A Levels, Whales College, Karachi (2023) · O Levels, The City School, Karachi (
 
 **🔭 Currently Learning**
 - Advanced RAG & LLM evaluation
+- Multi-agent systems with LangGraph
 - Deep Learning with PyTorch
-- LLM fine-tuning
 - MLOps & model deployment
 - System design at scale
 
